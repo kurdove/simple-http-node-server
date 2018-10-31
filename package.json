@@ -1,0 +1,27 @@
+{
+  "name": "simple-http-node-server",
+  "version": "1.0.0",
+  "description": "test http server",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurdove/simple-http-node-server.git"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "Evgheni Curdov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurdove/simple-http-node-server/issues"
+  },
+  "homepage": "https://github.com/kurdove/simple-http-node-server#readme"
+}
